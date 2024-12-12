@@ -6,7 +6,7 @@ void main() {
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         title: const Text(
-          ' I am Rich',
+          ' I am Business Man',
         ),
         backgroundColor: Colors.blueGrey[900],
       ),
